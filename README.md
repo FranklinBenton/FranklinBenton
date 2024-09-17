@@ -31,7 +31,7 @@ I’m currently focusing on:
 ---
 
 ## 📫 How to Reach Me:
-- LinkedIn: [linkedin.com/in/franklinbenton](https://linkedin.com/in/franklinbenton)
+- LinkedIn: [linkedin.com/in/franklin-benton-1735b1322](https://linkedin.com/in/franklin-benton-1735b1322)
 - Email: [franklin.benton.88@gmail.com](mailto:franklin.benton.88@gmail.com)
 
 ---
