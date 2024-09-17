@@ -32,7 +32,7 @@ I’m currently focusing on:
 
 ## 📫 How to Reach Me:
 - LinkedIn: [linkedin.com/in/franklinbenton](https://linkedin.com/in/franklinbenton)
-- Email: [franklinbenton.dev@gmail.com](mailto:franklinbenton.dev@gmail.com)
+- Email: [franklin.benton.88@gmail.com](mailto:franklin.benton.88@gmail.com)
 
 ---
 
