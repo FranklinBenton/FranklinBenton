@@ -24,12 +24,6 @@ I’m currently focusing on:
 
 ---
 
-## 📈 GitHub Stats
-
-![Franklin Benton's GitHub Stats](https://github-readme-stats.vercel.app/api?username=franklin-benton&show_icons=true&theme=radical)
-
----
-
 ## 📫 How to Reach Me:
 - LinkedIn: [linkedin.com/in/franklin-benton-1735b1322](https://linkedin.com/in/franklin-benton-1735b1322)
 - Email: [franklin.benton.88@gmail.com](mailto:franklin.benton.88@gmail.com)
